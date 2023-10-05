@@ -1,0 +1,5 @@
+node_modules
+dist
+vitest.*.ts
+vite.*.ts
+.eslintrc.cjs
